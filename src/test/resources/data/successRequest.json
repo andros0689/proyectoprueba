@@ -1,0 +1,12 @@
+[
+    {
+        "idTransaccion": "69C4BED95D887C8-0000000000000003",
+        "mensaje": "Registro exitoso",
+        "fechaTransaccion": "2024-06-01T12:00:00Z"
+    },
+    {
+        "idTransaccion": "69C4BED95D887C8-0000000000000008",
+        "mensaje": "Busqueda exitosa",
+        "fechaTransaccion": "2024-06-20T12:00:00Z"
+    }
+]
