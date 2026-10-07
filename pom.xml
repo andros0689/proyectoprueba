@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.acme.esb</groupId>
     <artifactId>app-prueba-extension</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <azurite-testcontainers-module.version>1.20.5</azurite-testcontainers-module.version>
